@@ -12,8 +12,9 @@ I'm a Columbia SIPA-QMSS Dual Degree student with deep interests in data science
 ### Projects
 
 1. Congressional Voting and Import Competition
-2. COVID Misinformation - NLP/ML
-3. `imfpy` - an API client for the International Monetary Fund
+2. COVID Misinformation Classification - NLP/ML Resources
+3. Public transportation access and higher education - with Penn GSE
+4. `imfpy` - an intuitive API client for the International Monetary Fund
 
 ### Featured
 
