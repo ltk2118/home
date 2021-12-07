@@ -1,6 +1,6 @@
 ## Hi, my name is Liam. 
 
-I'm a Columbia SIPA-QMSS Dual Degree student with deep interests in data science applications to political economy and trade policy.
+I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.columbia.edu/) Dual Degree student and Fulbright Scholar with deep interests in data science applications to political economy and trade policy.
 
 - Email: [liam.k@columbia.edu](mailto:liam.k@columbia.edu)
 - LinkedIn: [https://www.linkedin.com/in/liamtaykearney](https://www.linkedin.com/in/liamtaykearney)
