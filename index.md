@@ -34,7 +34,7 @@ I'm a Columbia SIPA-QMSS Dual Degree student with deep interests in data science
 
 ### Interests
 
-* **Cooking** - from my Peranakan heritage!
+* **Cooking** - from my [Peranakan](https://en.wikipedia.org/wiki/Peranakan_cuisine#:~:text=Peranakan%20cuisine%20or%20Nyonya%20cuisine,inter%2Dmarrying%20with%20local%20Malays.&text=The%20cuisine%20combines%20Chinese%2C%20Malay,South%20Indian%2C%20and%20other%20influences.) heritage!
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
 

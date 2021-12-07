@@ -1,6 +1,8 @@
-# broadband_connectivity
+# Municipal Broadband Restrictions
 
 A project completed for Columbia University's School of International and Public Affairs **SIPAU6614 Data Analysis for Policy Research using R**.
+
+> View the Github Repo [here](https://github.com/ltk2118/broadband_connectivity).
 
 ### How do restrictions on municipal broadband affect connectivity outcomes?
 
