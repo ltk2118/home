@@ -1,7 +1,7 @@
 # Congressional voting and trade
 A project completed for Columbia University's School of International and Public Affairs **SIPAU6600 Testing Models of Public Policy**.
 
-> **View the Github Repo [here](https://github.com/ltk2118/broadband_connectivity).**
+> **View the Github Repo [here](https://github.com/ltk2118/congress_trade).**
 
 The central question of this research is the following - what is the effect of greater import competition on congressional voting behaviour on legislation aimed at enhancing free trade? Secondarily, if there is any effect, it will be useful to understand how long it persists.
 
