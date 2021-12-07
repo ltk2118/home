@@ -25,7 +25,7 @@ I'm a Columbia SIPA-QMSS Dual Degree student with deep interests in data science
 
 ### Technical Capabilities
 
-- Data mining and visualization: Python, R, Tableau
+- Data mining and visualization: Python, R, Tableau, SQL
 
 - Econometrics: R, Stata, EViews, Gempack
 
