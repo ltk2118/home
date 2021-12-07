@@ -36,5 +36,9 @@ I'm a Columbia SIPA-QMSS Dual Degree student with deep interests in data science
 - Front-end: Java, HTML, CSS, Markdown, TeX
 - Design: Photoshop, Illustrator, Lightroom, Premiere, Spark
 
+### Interests
+
+* **Cooking** - from my Peranakan heritage!
+
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
 
