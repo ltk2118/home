@@ -3,7 +3,7 @@
 I'm a Columbia SIPA-QMSS Dual Degree student with deep interests in data science applications to political economy and trade policy.
 
 - Email: [liam.k@columbia.edu](mailto:liam.k@columbia.edu)
-- LinkedIn: [](https://www.linkedin.com/in/liamtaykearney)
+- LinkedIn: [https://www.linkedin.com/in/liamtaykearney](https://www.linkedin.com/in/liamtaykearney)
 - Instagram: @liamtaykearney
 - My interests: trade policy, political economy, economics of inequality, data science applications
 - Nationalities: Australian-Irish-Peranakan (Singapore)
@@ -19,7 +19,7 @@ I'm a Columbia SIPA-QMSS Dual Degree student with deep interests in data science
 
 ### Current Positions
 
-1. Teaching Assistant,  Columbia University School of International and Public Affairs (SIPA - **SIPAU6614 Data Analysis for Policy Research using R** - Harold Stolper
+1. Teaching Assistant,  Columbia University School of International and Public Affairs (SIPA) - **U6614 Data Analysis for Policy Research using R** - Harold Stolper
 2. Research Assistant - Columbia University School of International and Public Affairs (SIPA) - **A Research Agenda for Trade Policy** - Sharyn O'Halloran & Thomas Groll
 3. Data Analyst - University of Pennsylvania Graduate School of Education (GSE)
 
