@@ -8,7 +8,7 @@
 - LinkedIn: https://www.linkedin.com/in/liamtaykearney/
 - Instagram: @liamtaykearney
 - My interests: trade policy, political economy, economics of inequality, data science applications
-- Australian-Irish-Peranakan (Singapore)
+- Nationalities: Australian-Irish-Peranakan (Singapore)
 - Languages: English, 中文
 
 ### Projects
