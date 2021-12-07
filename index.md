@@ -15,7 +15,7 @@ I'm a Columbia SIPA-QMSS Dual Degree student with deep interests in data science
 2. [COVID Misinformation Classification - NLP/ML Resources](subpages/covid_misinfo.md)
 3. Public transportation access and higher education - with UPenn GSE
 4. `imfpy` - an intuitive API client for the International Monetary Fund
-5. Municipal broadband restrictions and connectivity outcomes - **SIPAU6614 Data Analysis for Policy Research using R**
+5. [Municipal broadband restrictions and connectivity outcomes](subpages/broadband.md)
 
 ### Current Positions
 
