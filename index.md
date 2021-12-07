@@ -11,7 +11,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 
 ### Projects
 
-1. Congressional Voting and Import Competition
+1. [Congressional Voting and Import Competition](subpages/congress_trade.md)
 2. [COVID Misinformation Classification - NLP/ML Resources](subpages/covid_misinfo.md)
 3. Public transportation access and higher education - with UPenn GSE
 4. `imfpy` - an intuitive API client for the International Monetary Fund
