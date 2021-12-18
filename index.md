@@ -1,6 +1,6 @@
 ## Hi, my name is Liam. 
 
-I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.columbia.edu/) Dual Degree student and Fulbright Scholar with deep interests in data science applications to political economy and trade policy.
+I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.columbia.edu/) Dual Degree student and Fulbright Scholar with deep interests in data science applications to political economy and trade policy. Please feel free to connect!
 
 - Email: [liam.k@columbia.edu](mailto:liam.k@columbia.edu)
 - LinkedIn: [https://www.linkedin.com/in/liamtaykearney](https://www.linkedin.com/in/liamtaykearney)
@@ -14,14 +14,14 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 1. [Congressional Voting and Import Competition](subpages/congress_trade.md)
 2. [COVID Misinformation Classification - NLP/ML Resources](subpages/covid_misinfo.md)
 3. [Public transportation access and higher education - with UPenn GSE](https://github.com/ltk2118/philadelphia-gis)
-4. `imfpy` - an intuitive API client for the International Monetary Fund
+4. [`imfpy` - an intuitive API client for the International Monetary Fund](subpages/imfpy.md)
 5. [Municipal broadband restrictions and connectivity outcomes](subpages/broadband.md)
 
 ### Current Positions
 
 1. Teaching Assistant,  Columbia University School of International and Public Affairs (SIPA) - **U6614 Data Analysis for Policy Research using R** - Harold Stolper
 2. Research Assistant - Columbia University School of International and Public Affairs (SIPA) - **A Research Agenda for Trade Policy** - Sharyn O'Halloran & Thomas Groll
-3. Data Analyst - University of Pennsylvania Graduate School of Education (GSE)
+3. Data Analyst - University of Pennsylvania Graduate School of Education (GSE) - Amalia Dache
 
 ### Technical Capabilities
 
@@ -29,7 +29,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 - Econometrics: R, Stata, EViews, Gempack
 - GIS: QGIS, Leaflet, GeoPandas, PySAL, GeoDa
 - Machine Learning: Sklearn, PyTorch, Tensorflow, Keras
-- Front-end: Java, HTML, CSS, Markdown, TeX
+- Front-end: Java, HTML, CSS, Markdown, TeX, Shiny
 - Design: Photoshop, Illustrator, Lightroom, Premiere, Spark
 
 ### Interests
