@@ -38,9 +38,10 @@ For example, `retrievals.dots` pulls data from the DoTS database including impor
 >>> from imfpy.retrievals import dots
 >>> dots("GR", ["US", "AU", "DE"], 2000, 2005)
 ```
-
-![](https://raw.githubusercontent.com/ltk2118/imfpy/main/img/usage5.png)
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/ltk2118/imfpy/main/img/usage5.png" style="zoom:80%;" />
+</p>
+  
 `tools` contains functions that conduct rudimentary analysis and visualization on the data returned by `retrievals` functions. For example, the `dotsplot` function transforms the result of `dots()` into time series plots.
 
 ```python
@@ -49,19 +50,18 @@ For example, `retrievals.dots` pulls data from the DoTS database including impor
 >>> d = dots('AU',['US','CN'], 2000, 2020, freq='A', form="long")
 >>> dotsplot(d, subset=['Trade Balance', 'Twoway Trade'])
 ```
+<p align="center">
+<img src="https://raw.githubusercontent.com/ltk2118/imfpy/main/img/usage.png" style="zoom:60%;" />
 
-<img src="https://raw.githubusercontent.com/ltk2118/imfpy/main/img/usage.png" style="zoom:50%;" />
-
-<img src="https://raw.githubusercontent.com/ltk2118/imfpy/main/img/usage2.png" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/ltk2118/imfpy/main/img/usage2.png" style="zoom:60%;" />
+</p>
 
 ## Links
 
 **Documentation**
 
 * [User Guide/Vignette](https://imfpy.readthedocs.io/en/latest/example.html#user-guide)
-
 * [Full documentation](https://imfpy.readthedocs.io/en/latest/)
-
 * [API Reference](https://imfpy.readthedocs.io/en/latest/autoapi/index.html)
 
 **Distribution**
@@ -83,7 +83,6 @@ For example, `retrievals.dots` pulls data from the DoTS database including impor
 ## Contributing
 
 Interested in contributing? Want to use this package?  Please get in touch! Check out the contributing guidelines. 
-
 Please note that this project is released with a Code of Conduct. By contributing to this project, you agree to abide by its terms.
 
 ## License
