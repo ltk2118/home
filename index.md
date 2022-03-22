@@ -2,12 +2,12 @@
 
 I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.columbia.edu/) Dual Degree student and Fulbright Scholar with deep interests in data science applications to political economy and trade policy. Please feel free to connect!
 
-- Email: [liam.k@columbia.edu](mailto:liam.k@columbia.edu)
-- LinkedIn: [https://www.linkedin.com/in/liamtaykearney](https://www.linkedin.com/in/liamtaykearney)
-- Instagram: @liamtaykearney
-- My interests: trade policy, political economy, economics of inequality, data science applications
-- Nationalities: Australian-Irish-Peranakan (Singapore)
-- Languages: English, 中文
+- **Email**: [liam.k@columbia.edu](mailto:liam.k@columbia.edu)
+- **LinkedIn**: [https://www.linkedin.com/in/liamtaykearney](https://www.linkedin.com/in/liamtaykearney)
+- **Instagram**: @liamtaykearney
+- **Interests**: trade policy, political economy, economics of inequality, data science applications
+- **Nationalities**: Australian-Irish-Peranakan (Singapore)
+- **Languages**: English, 中文
 
 ### Projects
 
@@ -25,14 +25,14 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 
 ### Technical Skills
 
-- Data Mining: R, Python, SQL, Spark
-- Visualization: Tableau, Shiny, Dash, D3, Plotly
-- Econometrics: R, Stata, EViews, GEMPACK, JMulTi
-- GIS: QGIS, Leaflet, GeoPandas, GeoDa, PySAL
-- Version Control: Git, Github (ltk2118)
-- NLP: NTLK, Quanteda, SpaCy, Gensim
-- ML: Scikit-learn, Tensorflow, Keras
-- Other: HTML, CSS, Markdown, R Markdown, LaTeX
+- **Data Mining**: R, Python, SQL, Spark
+- **Visualization**: Tableau, Shiny, Dash, D3, Plotly
+- **Econometrics**: R, Stata, EViews, GEMPACK, JMulTi
+- **GIS**: QGIS, Leaflet, GeoPandas, GeoDa, PySAL
+- **NLP**: NTLK, Quanteda, SpaCy, Gensim
+- **ML**: Scikit-learn, Tensorflow, Keras
+- **Version Control**: Git, Github
+- **Other**: HTML, CSS, Markdown, R Markdown, LaTeX
 
 ### Education
 
@@ -44,7 +44,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 ### Experience
 
 * **Australian Embassy, Beijing** - Public Affairs
-* **United Nations Capital Development Fund** - Junior Research Analyst
+* **United Nations Capital Development Fund** - Research Analyst
 * **Internships** - Westpac Treasury (Sydney), KPMG Global China Practice (Beijing), Asia Society Policy Institute (Washington)
 
 ### Hobbies
