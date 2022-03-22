@@ -23,15 +23,32 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 2. Research Assistant - Columbia University School of International and Public Affairs (SIPA) - **A Research Agenda for Trade Policy** - Sharyn O'Halloran & Thomas Groll
 3. Data Analyst - University of Pennsylvania Graduate School of Education (GSE) - Amalia Dache
 
-### Technical Capabilities
+### Technical Skills
 
-- Data mining and visualization: Python, R, Tableau, SQL
-- Econometrics: R, Stata, EViews, Gempack
-- GIS: QGIS, Leaflet, GeoPandas, PySAL, GeoDa
-- Machine Learning: Sklearn, PyTorch, Tensorflow, Keras
-- Front-end: Java, HTML, CSS, Markdown, TeX, Shiny
-- Design: Photoshop, Illustrator, Lightroom, Premiere, Spark
+- Data Mining: R, Python, SQL, Spark
+- Visualization: Tableau, Shiny, Dash, D3, Plotly
+- Econometrics: R, Stata, EViews, GEMPACK, JMulTi
+- GIS: QGIS, Leaflet, GeoPandas, GeoDa, PySAL
+- Version Control: Git, Github (ltk2118)
+- NLP: NTLK, Quanteda, SpaCy, Gensim
+- ML: Scikit-learn, Tensorflow, Keras
+- Other: HTML, CSS, Markdown, R Markdown, LaTeX
 
-### Interests
+### Education
+
+* **Master of International Affairs** - International Economic Policy
+* **Master of Arts** - Quantitative Methods in the Social Sciences
+* **Bachelor of Philosophy** - Economics and Finance
+* **Diploma of Interpreting** - Chinese-English
+
+### Past Experience
+
+* **Australian Embassy, Beijing** - Public Affairs
+* **United Nations Capital Development Fund** - Junior Research Analyst
+* **Internships** - Westpac Treasury, KPMG Global China Practice, Asia Society Policy Institute
+* **Diploma of Interpreting** - Chinese-English
+
+### Hobbies
 
 * **Cooking** - from my [Peranakan](https://en.wikipedia.org/wiki/Peranakan_cuisine#:~:text=Peranakan%20cuisine%20or%20Nyonya%20cuisine,inter%2Dmarrying%20with%20local%20Malays.&text=The%20cuisine%20combines%20Chinese%2C%20Malay,South%20Indian%2C%20and%20other%20influences.) heritage!
+
