@@ -36,17 +36,16 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 
 ### Education
 
-* **Master of International Affairs** - International Economic Policy
-* **Master of Arts** - Quantitative Methods in the Social Sciences
-* **Bachelor of Philosophy** - Economics and Finance
+* **Master of International Affairs** - International Economic Policy (Columbia)
+* **Master of Arts** - Quantitative Methods in the Social Sciences (Columbia)
+* **Bachelor of Philosophy** - Economics and Finance (University of Western Australia)
 * **Diploma of Interpreting** - Chinese-English
 
-### Past Experience
+### Experience
 
 * **Australian Embassy, Beijing** - Public Affairs
 * **United Nations Capital Development Fund** - Junior Research Analyst
-* **Internships** - Westpac Treasury, KPMG Global China Practice, Asia Society Policy Institute
-* **Diploma of Interpreting** - Chinese-English
+* **Internships** - Westpac Treasury (Sydney), KPMG Global China Practice (Beijing), Asia Society Policy Institute (Washington)
 
 ### Hobbies
 
