@@ -45,7 +45,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 
 * **Australian Embassy, Beijing** - Public Affairs
 * **United Nations Capital Development Fund** - Research Analyst
-* **Internships** - Westpac Treasury (Sydney), KPMG Global China Practice (Beijing), Asia Society Policy Institute (Washington)
+* **Internships** - Asia Society Policy Institute (Washington), KPMG Global China Practice (Beijing), Westpac Treasury (Sydney)
 
 ### Hobbies
 
