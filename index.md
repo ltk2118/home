@@ -34,11 +34,11 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 - **Version Control**: Git, Github
 - **Other**: HTML, CSS, Markdown, R Markdown, LaTeX
 
-### Education
+### Qualifications
 
 * **Master of International Affairs** - International Economic Policy (Columbia)
 * **Master of Arts** - Quantitative Methods in the Social Sciences (Columbia)
-* **Bachelor of Philosophy** - Economics and Finance (University of Western Australia)
+* **Bachelor of Philosophy (Honours) **- Economics and Finance (University of Western Australia)
 * **Diploma of Interpreting** - Chinese-English
 
 ### Experience
@@ -50,4 +50,6 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 ### Hobbies
 
 * **Cooking** - from my [Peranakan](https://en.wikipedia.org/wiki/Peranakan_cuisine#:~:text=Peranakan%20cuisine%20or%20Nyonya%20cuisine,inter%2Dmarrying%20with%20local%20Malays.&text=The%20cuisine%20combines%20Chinese%2C%20Malay,South%20Indian%2C%20and%20other%20influences.) heritage!
+* **Eating** - here are some favourites.
+* **Travelling** - here are the countries I've visited!
 
