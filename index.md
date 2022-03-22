@@ -19,9 +19,9 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 
 ### Current Positions
 
-1. Teaching Assistant,  Columbia University School of International and Public Affairs (SIPA) - **U6614 Data Analysis for Policy Research using R** - Harold Stolper
-2. Research Assistant - Columbia University School of International and Public Affairs (SIPA) - **A Research Agenda for Trade Policy** - Sharyn O'Halloran & Thomas Groll
-3. Data Analyst - University of Pennsylvania Graduate School of Education (GSE) - Amalia Dache
+1. **Teaching Assistant** -  Columbia University School of International and Public Affairs (SIPA) - *U6614 Data Analysis for Policy Research using R* - Harold Stolper
+2. **Research Assistant** - Columbia University School of International and Public Affairs (SIPA) - *A Research Agenda for Trade Policy* - Sharyn O'Halloran & Thomas Groll
+3. **Data Analyst** - University of Pennsylvania Graduate School of Education (GSE) - Amalia Dache
 
 ### Technical Skills
 
