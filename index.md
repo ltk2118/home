@@ -38,7 +38,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 
 * **Master of International Affairs** - International Economic Policy (Columbia)
 * **Master of Arts** - Quantitative Methods in the Social Sciences (Columbia)
-* **Bachelor of Philosophy (Honours) **- Economics and Finance (University of Western Australia)
+* **Bachelor of Philosophy (Honours)** - Economics and Finance (University of Western Australia)
 * **Diploma of Interpreting** - Chinese-English
 
 ### Experience
